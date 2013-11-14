@@ -16,7 +16,6 @@
     "appendix-a.asciidoc",
     "appendix-b.asciidoc"
   ],
-  "templating": false,
   "formats": {
     "pdf": {
       "version": "web",
@@ -37,6 +36,7 @@
       "toc": false
     }
   },
-  "theme": false,
-  "title": "etudes for elixir"
+  "theme": "oreillymedia/animal_theme",
+  "title": "etudes for elixir",
+  "templating": false
 }
