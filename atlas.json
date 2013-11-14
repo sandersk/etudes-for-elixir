@@ -16,6 +16,7 @@
     "appendix-a.asciidoc",
     "appendix-b.asciidoc"
   ],
+  "templating": false,
   "formats": {
     "pdf": {
       "version": "web",
